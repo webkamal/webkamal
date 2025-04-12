@@ -14,10 +14,10 @@
 
 <div align="life">
   <a href="https://nextjs.org">
-    <img src="https://jlannoo.dev/skills/next.png"/> 
+    <img src="https://jlannoo.dev/skills/next.png" width=80 height=80/> 
   </a>
   <a href="https://reactjs.org">
-    <img src="https://www.codewithharry.com/img/notes/reactjs.webp"/>
+    <img src="https://www.codewithharry.com/img/notes/reactjs.webp" width=80 height=80/>
   </a>
 </div>
 
