@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/JosManoel">
-    <img src="https://image_1.png" width="412px"/> 
+    <img src="https://image_1.png](https://jlannoo.dev/skills/next.png" width="412px"/> 
   </a>
   <a href="https://github.com/JosManoel">
-    <img src="https://image_2.png" width="412px"/>
+    <img src="https://www.codewithharry.com/img/notes/reactjs.webp"/>
   </a>
 </div>
 
