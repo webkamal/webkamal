@@ -21,4 +21,8 @@
   </a>
 </div>
 
+<p>
+    <img src="https://picsum.photos/100/100" hspace="10" >
+    <img src="https://picsum.photos/100/100" hspace="10" >
+</p>
 
