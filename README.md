@@ -6,20 +6,20 @@
 
 <div>
   <a href="https://nextjs.org">
-     <img src="https://jlannoo.dev/skills/next.png" target="_blank" width=80 height=80 hspace="10"/>
+     <img src="https://jlannoo.dev/skills/next.png" width=80 height=80 hspace="10"/>
   </a>
   <a href="https://reactjs.org">
-  <img src="https://www.codewithharry.com/img/notes/reactjs.webp" target="_blank" width=80 height=80 hspace="10"/>
+  <img src="https://www.codewithharry.com/img/notes/reactjs.webp" width=80 height=80 hspace="10"/>
   </a>
    <a href="https://nodejs.org">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" target="_blank" width=80 height=80 hspace="10"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width=80 height=80 hspace="10"/>
   </a>
-   <a href="https://tailwind.org">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" target="_blank" width=80 height=80 hspace="10"/>
+   <a href="https://tailwindcss.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width=80 height=80 hspace="10"/>
   </a>
    </a>
    <a href="https://laravel.org">
-  <img src="https://www.deployapps.io/img/applications/laravel-latest.png" target="_blank" width=80 height=80 hspace="10" />
+  <img src="https://www.deployapps.io/img/applications/laravel-latest.png" width=80 height=80 hspace="10" />
   </a>
 </div>
 
