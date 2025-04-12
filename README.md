@@ -18,7 +18,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width=80 height=80 hspace="10"/>
   </a>
    </a>
-   <a href="https://laravel.org">
+   <a href="https://laravel.com" target="_blank">
   <img src="https://www.deployapps.io/img/applications/laravel-latest.png" width=80 height=80 hspace="10" />
   </a>
 </div>
