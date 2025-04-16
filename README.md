@@ -8,6 +8,11 @@
   <a href="https://html5.org" target="_new">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50 height=50 hspace="10"/>
   </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_new">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50 height=50 hspace="10"/>
+  </a>
+
+  
 
   <a href="https://javascript.org" target="_new">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50 height=50 hspace="10"/>
