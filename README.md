@@ -22,6 +22,10 @@
   <a href="https://reactjs.org" target="_new">
   <img src="https://www.codewithharry.com/img/notes/reactjs.webp" width=50 height=50 hspace="10"/>
   </a>
+    </a>
+<a href="https://redux.js.org/" target="_new">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width=50 height=50 hspace="10" />
+  </a>
    <a href="https://nodejs.org" target="_new">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width=50 height=50 hspace="10"/>
   </a>
@@ -35,6 +39,13 @@
   <a href="https://tailwindcss.com" target="_new">
   <img src="https://camo.githubusercontent.com/4b8c7963cc22423fbde9c54860ced998c09a7dc4a4e78e66db3301689aaa306a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f5461696c77696e645f4353535f4c6f676f2e7376672f37363870782d5461696c77696e645f4353535f4c6f676f2e7376672e706e673f3230323330373135303330303432" width=50 height=50 hspace="10" />
   </a>
+<a href="https://sass-lang.com/" target="_new">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50 height=50 hspace="10" />
+  </a>
+
+
+  
+  
 
   
 </div>
