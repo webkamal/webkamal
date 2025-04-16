@@ -5,6 +5,17 @@
 
 
 <div>
+  <a href="https://html5.org" target="_new">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50 height=50 hspace="10"/>
+  </a>
+
+  <a href="https://javascript.org" target="_new">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50 height=50 hspace="10"/>
+  </a>
+  <a href="https://reactjs.org" target="_new">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=50 height=50 hspace="10"/>
+  </a>
+  
   <a href="https://nextjs.org" target="_new">
      <img src="https://jlannoo.dev/skills/next.png" width=50 height=50 hspace="10"/>
   </a>
